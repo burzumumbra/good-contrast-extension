@@ -1,11 +1,11 @@
 {
   "name": "good-contrast",
-  "version": "5.0.4",
+  "version": "1.0.1",
   "description": "Kinda darkmode, but with good contrast",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/burzumumbra/good-contrast-extension"
   },
   "scripts": {
     "build": "node utils/build.js",
