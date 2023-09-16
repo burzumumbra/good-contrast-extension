@@ -1,0 +1,115 @@
+{
+  "BasicStructure": [
+    "html",
+    "head",
+    "meta",
+    "title",
+    "link"
+  ],
+  "DocumentSections": [
+    "body",
+    "header",
+    "main",
+    "nav",
+    "footer"
+  ],
+  "TextAndFormatting": [
+    "p",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "strong",
+    "em",
+    "abbr",
+    "cite",
+    "code",
+    "var",
+    "pre",
+    "blockquote",
+    "q",
+    "mark",
+    "del",
+    "ins",
+    "s"
+  ],
+  "ListsAndTables": [
+    "ul",
+    "ol",
+    "li",
+    "table",
+    "caption",
+    "thead",
+    "tbody",
+    "tfoot",
+    "tr",
+    "th",
+    "td",
+    "colgroup",
+    "col"
+  ],
+  "FormsAndInput": [
+    "form",
+    "input",
+    "textarea",
+    "button",
+    "label",
+    "select",
+    "option",
+    "optgroup",
+    "fieldset",
+    "legend"
+  ],
+  "Multimedia": [
+    "img",
+    "audio",
+    "video",
+    "source",
+    "track",
+    "iframe"
+  ],
+  "Miscellaneous": [
+    "div",
+    "span",
+    "hr",
+    "br",
+    "wbr",
+    "slot",
+    "template"
+  ],
+  "InteractiveElements": [
+    "a",
+    "button",
+    "details",
+    "summary",
+    "menu",
+    "menuitem"
+  ],
+  "MathAndSemanticElements": [
+    "math",
+    "ruby",
+    "rt",
+    "rp",
+    "rtc"
+  ],
+  "VoidElements": [
+    "area",
+    "base",
+    "br",
+    "col",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "link",
+    "menuitem",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr"
+  ]
+} 
+  
