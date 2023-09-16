@@ -1,18 +1,6 @@
 {
-  "BasicStructure": [
-    "html",
-    "head",
-    "meta",
-    "title",
-    "link"
-  ],
-  "DocumentSections": [
-    "body",
-    "header",
-    "main",
-    "nav",
-    "footer"
-  ],
+  "BasicStructure": ["html", "head", "meta", "title", "link"],
+  "DocumentSections": ["body", "header", "main", "nav", "footer", "div", "span", "aside"],
   "TextAndFormatting": [
     "p",
     "h1",
@@ -62,23 +50,8 @@
     "fieldset",
     "legend"
   ],
-  "Multimedia": [
-    "img",
-    "audio",
-    "video",
-    "source",
-    "track",
-    "iframe"
-  ],
-  "Miscellaneous": [
-    "div",
-    "span",
-    "hr",
-    "br",
-    "wbr",
-    "slot",
-    "template"
-  ],
+  "Multimedia": ["img", "audio", "video", "source", "track", "iframe"],
+  "Miscellaneous": ["hr", "br", "wbr", "slot", "template"],
   "InteractiveElements": [
     "a",
     "button",
@@ -87,13 +60,7 @@
     "menu",
     "menuitem"
   ],
-  "MathAndSemanticElements": [
-    "math",
-    "ruby",
-    "rt",
-    "rp",
-    "rtc"
-  ],
+  "MathAndSemanticElements": ["math", "ruby", "rt", "rp", "rtc"],
   "VoidElements": [
     "area",
     "base",
@@ -111,5 +78,4 @@
     "track",
     "wbr"
   ]
-} 
-  
+}
